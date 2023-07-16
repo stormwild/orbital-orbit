@@ -1,4 +1,10 @@
-# Astro Starter Kit: Basics
+# Sample Astro Header Demo
+
+[Modern CSS Layouts: Headers. Learn three tips to create modern… | by Enrico Gruner | Jun, 2023 | JavaScript in Plain English](https://javascript.plainenglish.io/modern-css-layouts-headers-a02577e3181d)
+
+![](orbital-orbit-header.png)
+
+## Astro Starter Kit: Basics
 
 ```
 npm create astro@latest -- --template basics
